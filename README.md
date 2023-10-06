@@ -6,6 +6,6 @@ Cualquier conexión adicional de sockets, se puede hacer en el archivo ```models
 
 ## debemos correrlo con
 ```
-npm install
-nodemon dev
+npm i
+npm run dev
 ```
